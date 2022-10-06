@@ -1,0 +1,6 @@
+Include < studio.h>
+Int main()
+{
+Printf(" hello");
+Return 0:
+}
